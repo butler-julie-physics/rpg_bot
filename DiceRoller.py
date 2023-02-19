@@ -1,4 +1,14 @@
+##############################
 # Dice Roller
+# Author: Julie Butler Hartley
+# Date Created: 2/19/23
+# Last Modified: 2/19/23
+#
+# Rolls any dice in the format ndm with any
+# additional modifier.  Has the base dice built
+# in (with DCC dice additions) and allows for custom
+# dice with any number of sides to be rolled.
+##############################
 
 import numpy as np
 
